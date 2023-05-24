@@ -1,6 +1,11 @@
 # speech2text
 
-To run, make sure speech2text.py is run in a folder where the subdirectories contain either mp3 or mp4 files, with this structure:
+To run, simply run 
+```
+python speech2text.py
+```
+
+In a folder where the subdirectories contain either mp3 or mp4 files, following this structure:
 
 - speech2text
   speech2text.py
